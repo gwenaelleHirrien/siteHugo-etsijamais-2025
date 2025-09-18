@@ -9,5 +9,4 @@ J'accompagne les équipes et les organisations vers des pratiques plus **respons
 - Coaching **Agile**  
 - Coaching **Professionnel**  
 - **Numérique Responsable** & **Écoconception** (produit & technique)  
-- **Intervention systémique**  
-- **Conférences** & **vulgarisation**
+- **Intervention systémique**
