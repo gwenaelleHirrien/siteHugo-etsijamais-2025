@@ -1,0 +1,3 @@
+:root{ --brand-green:#226622; }
+a{color:var(--brand-green);}
+button{background:var(--brand-green); color:#fff; border:none; padding:.6rem 1rem; border-radius:.4rem;}
