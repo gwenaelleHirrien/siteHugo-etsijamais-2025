@@ -1,7 +1,7 @@
 baseURL = "https://www.etsijamais.fr/"
 languageCode = "fr"
 title = "Et si jamais"
-theme = "PaperMod"
+theme = "paper"
 enableRobotsTXT = true
 
 [params]
