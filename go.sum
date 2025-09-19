@@ -1,2 +1,4 @@
 github.com/halogenica/beautifulhugo v0.0.0-20250508050025-e69e25d4ca0d h1:H3Gf3B7nxMscrz+v7fn+PavLMUR+vCpcRJpzCAZy57A=
 github.com/halogenica/beautifulhugo v0.0.0-20250508050025-e69e25d4ca0d/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
+github.com/nanxiaobei/hugo-paper v0.0.0-20250419060945-8c75cdd9ce53 h1:VoP3cjNl0DDqtPIMIFDs3vSKmmgXBDrQD6mTOICgf/k=
+github.com/nanxiaobei/hugo-paper v0.0.0-20250419060945-8c75cdd9ce53/go.mod h1:cS2hTYPgmZ2FkPTQbOiX6vB0yLQcWD067kJx2lkRPVQ=
