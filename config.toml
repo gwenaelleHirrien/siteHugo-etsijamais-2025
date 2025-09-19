@@ -1,4 +1,4 @@
-baseURL = "http://etsijamais.fr/"
+baseURL = "https://etsijamais.fr/"
 languageCode = "fr"
 title = "Et si jamais"
 theme = "jekyll-theme-minimal"
