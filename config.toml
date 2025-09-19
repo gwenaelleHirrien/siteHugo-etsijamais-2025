@@ -1,12 +1,12 @@
 baseURL = "https://www.etsijamais.fr/"
 languageCode = "fr"
 title = "Et si jamais"
-theme = "ananke"
+theme = "beautifulhugo"
 enableRobotsTXT = true
 
 [params]
 defaultTheme = "auto"
-description = "Coaching Agile, Coaching Professionnel, Numérique Responsable & Écoconception – avec regard systémique."
+description = "Coaching Agile, Coaching Professionnel, Numérique Responsable & Écoconception, avec un regard systémique."
 assets = { disableHLJS = false }
 ShowReadingTime = true
 ShowShareButtons = false
@@ -18,7 +18,7 @@ customCSS = ["css/custom.css"]
 
 [params.homeInfoParams]
 Title = "Et si jamais"
-Content = "Coaching Agile, Coaching Professionnel, Numérique Responsable & Écoconception – avec regard systémique."
+Content = "Coaching Agile, Coaching Professionnel, Numérique Responsable & Écoconception, avec un regard systémique."
 
 [[menu.main]]
 name = "Services"
@@ -37,3 +37,6 @@ weight = 30
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[[module.imports]]
+path = "github.com/halogenica/beautifulhugo"
